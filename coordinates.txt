@@ -1,0 +1,2 @@
+latitude=10.7606037
+longitude=78.6805431
